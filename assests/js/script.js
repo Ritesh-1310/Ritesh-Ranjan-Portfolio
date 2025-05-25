@@ -53,7 +53,7 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["Backend Development (NodeJs)", "Flutter Development", "Full Stack Mobile Development", "Competitive Programming"],
+        strings: ["MERN Stack Development", "Flutter Development", "Competitive Programming"],
         loop: true,
         typeSpeed: 50,
 		backSpeed: 25,
